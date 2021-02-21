@@ -1,0 +1,6 @@
+# Workスペース
+work/
+
+# Other
+.vscode
+.DS_Store
