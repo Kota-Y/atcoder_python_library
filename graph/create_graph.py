@@ -1,4 +1,4 @@
-def create_graph(n: int, l: list) -> list:
+def create_graph(n: int, lgit : list) -> list:
     graph = [[] for _ in range(n)]
     for a, b in l:
         graph[a-1].append(b-1)
